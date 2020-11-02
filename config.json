@@ -1,5 +1,5 @@
 {
-  "app_name": "CmsProject",
+  "app_name": "GOCms",
   "port": "8080",
   "static_path": "/manage/static",
   "mode": "dev"
